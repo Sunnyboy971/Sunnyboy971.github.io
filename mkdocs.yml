@@ -1,16 +1,46 @@
 site_name: Sunnyboy971's Page
 theme:
   name: material
+  icon:
+    logo: material/book-cog
   features:
     - navigation.instant
     - navigation.tracking
     - navigation.tabs
     - navigation.top
+    - navigation.footer
+    - search.suggest
+    - search.highlight
+    - search.share
+  palette: 
+    # Palette toggle for light mode
+    - scheme: default
+      primary: blue
+      accent: blue
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+plugins:
+  - tags
+  - search:
+  
+
 extra:
-  alternate:
-    - name: English
-      link: /en/ 
-      lang: en
-    - name: 简体中文
-      link: /zh/
-      lang: zh
+  social:
+    - icon: simple/bilibili
+      link: https://space.bilibili.com/2046252132
+    - icon: fontawesome/brands/github
+      link: https://github.com/Sunnyboy971
+#  alternate:
+#    - name: English
+#      link: /en/ 
+#      lang: en
+#    - name: 简体中文
+#      link: /zh-CN/
+#      lang: zh

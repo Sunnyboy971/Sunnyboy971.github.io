@@ -1,3 +1,12 @@
+---
+tags:
+    - osu!
+    - osu!danser
+    - guide
+    - 指南
+    - 原创
+wip: true
+---
 # osu!danser 入门指南 - 2
 
 此文章将详细讲解 osu!danser 中的一些配置细节。

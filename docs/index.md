@@ -1,7 +1,24 @@
-# Home
+# 主页
 
-This is the main page of Sunnyboy971.github.io.
+你好呀。我是 Sunnyboy971。很高兴见到你！
 
-If you see this page, don't panic. Although it is a bit ugly and plain now, it might be better some time in the future!
+如果你想了解了解我，那你可来对地方了。
 
-Look forward to it with me 😊
+## 关于我
+
+用几个词描述一下自己吧：
+
+- 学生党（更准确地说，**准高三党**，如果你愿意的话）
+- 编程爱好者 ~~（准备好脱发了吗）~~
+- 翻译爱好者
+- osu! 萌新（字面含义，**也就勉强打打3星图**）
+- 喜欢电音，J-pop，国风，等等
+- 二次元浓度不高(?)
+
+相关的含义，我会在其他文章里详细解释。
+
+## FAQ
+
+**我还没想好要写什么呢。**
+
+如果你有什么想问问我的问题，可以私信我。我会很乐意帮你解答！

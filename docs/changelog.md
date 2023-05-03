@@ -1,9 +1,13 @@
-# Changelog
+# 更新日志
 
-This is a still updating list as long as the site exists.
+记载了本站点的重大(?)变动。
 
 ---
 
-2023-5-2: Set up Sunnyboy.github.io repo.
+2023-5-2: 正式建立 `Sunnyboy971/Sunnyboy971.github.io` 库。
 
-2023-5-3: Set up Mkdocs and wrote some initial articles.
+2023-5-3: Mkdocs + Material 主题初步设置完毕，可以基本使用。
+
+---
+
+还在延伸中，敬请期待......
