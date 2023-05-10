@@ -28,7 +28,7 @@ theme:
 
 plugins:
   - tags
-  - search:
+  - search
   
 
 extra:
