@@ -1,4 +1,4 @@
-site_name: Sunnyboy971's Page
+site_name: CloneWith's Page
 theme:
   name: material
   icon:
@@ -36,7 +36,7 @@ extra:
     - icon: simple/bilibili
       link: https://space.bilibili.com/2046252132
     - icon: fontawesome/brands/github
-      link: https://github.com/Sunnyboy971
+      link: https://github.com/CloneWith
 #  alternate:
 #    - name: English
 #      link: /en/ 
