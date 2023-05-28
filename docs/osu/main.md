@@ -6,9 +6,9 @@
 
 目前收录的文章有：
 
-- [杂谈](misc)
+- [杂谈](../misc)
 
 ### osu!danser 入门指南
 
-- [第一节](danser-wiki/danser-1)
-- [第二节](danser-wiki/danser-2)
+- [第一节](../danser-wiki/danser-1)
+- [第二节](../danser-wiki/danser-2)
