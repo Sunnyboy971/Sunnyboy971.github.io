@@ -1,3 +1,7 @@
+---
+comments: true
+---
+
 # osu!danser 入门指南 - 1
 
 osu!danser 是一款由 @Wieku 开发的 osu!standard 可视化程序。截至发布日期，它已经支持 Windows 和 Linux 操作系统，并且支持图形界面的操作。目前 osu!danser 仅有英文版本。

@@ -1,3 +1,7 @@
+---
+comments: true
+---
+
 # Translator Tools
 
 项目地址：[Github](https://github.com/CloneWith/translator-tools)
