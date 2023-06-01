@@ -1,3 +1,14 @@
+---
+tags:
+  - Yanshee
+  - AI
+  - Robotics
+  - Competition
+  - Coding
+  - Programming
+comments: true
+---
+
 # 关于我和 Yanshee 的那些事 - 程序技巧篇
 
 这篇文章会讲述 Yanshee 赛事脚本的基本结构，以及优化运行时间与性能的小技巧。

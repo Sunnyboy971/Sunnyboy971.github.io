@@ -1,3 +1,12 @@
+---
+tags:
+  - Experience
+  - Yanshee
+  - AI
+  - Robotics
+  - Competition
+---
+
 # 关于我和 Yanshee 的那些事 - 概览
 
 **2022.10 - 2023.5.**
