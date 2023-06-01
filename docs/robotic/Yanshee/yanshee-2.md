@@ -89,7 +89,7 @@ Yanshee APP 自带回读编程功能，但**只支持新编动作以及修改同
 
 具体使用上，我比较喜欢写一个函数再封装，这样更加可控。
 
-```python hl=6,7
+```py hl_lines="6 7"
 import time
 import YanAPI
 
