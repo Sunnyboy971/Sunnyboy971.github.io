@@ -61,9 +61,10 @@ osu!danser 提供了下列几种模式：
 
 ![难度详细信息](img/map-detail.png)
 
-如果`Songs` 文件夹有改动，会提示你更新数据库，直接更新即可。
+!!! info "数据库更新提示"
 
-![数据库更新提示](img/confirm-db.png)
+    如果`Songs` 文件夹有改动，会提示你更新数据库，直接更新即可。
+    ![数据库更新提示](img/confirm-db.png)
 
 ### 一般设置
 
@@ -122,7 +123,9 @@ osu!danser 使用 json 文件来保存不同配置，可以在软件目录中找
 
 ![配置管理](img/config.gif)
 
-建议不要轻易改动 `EXPERIMENTAL` 下的选项。带有 `(!)` 的选项，鼠标移到文字上方会显示提示。
+!!! warning "注意"
+
+    建议不要轻易改动 `EXPERIMENTAL` 下的选项。带有 `(!)` 的选项，鼠标移到文字上方会显示提示。
 
 #### 文件路径 (General)
 

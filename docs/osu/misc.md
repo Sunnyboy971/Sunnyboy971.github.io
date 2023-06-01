@@ -43,6 +43,9 @@ comments: true
 
 你完全可以发现一些很完美的数字。
 
+??? info "展开"
+    逸一时，误一世！
+
 ## 小科普
 
 ### Firetruck

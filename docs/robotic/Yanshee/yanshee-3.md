@@ -26,7 +26,9 @@ Yanshee 机器人的系统安全自然没有那么重要，但**防人之心不�
 sudo passwd
 ```
 
-Yanshee 的 `sudo` 指令，`pi` 用户可以直接使用，输入新密码即可。
+!!! info inline end "提示"
+
+    Yanshee 的 `sudo` 指令，`pi` 用户可以直接使用，输入新密码即可。
 
 ## 优化调节
 
@@ -34,7 +36,9 @@ Yanshee 的 `sudo` 指令，`pi` 用户可以直接使用，输入新密码即�
 
 Yanshee 机器人系统自带了优化程序（`首选项` -> `Raspberry Pi Configuration`），可以按上面的说明自行调节。
 
-**注意：不建议调节 `Camera` `SSH` `VNC` 的开关。除非确定不会使用，否则会造成很大的麻烦。**
+!!! warning "注意"
+
+    不建议调节 `Camera` `SSH` `VNC` 的开关。除非确定不会使用，否则会造成很大的麻烦。
 
 ### 软件包管理
 
@@ -44,7 +48,9 @@ Yanshee 机器人系统自带了优化程序（`首选项` -> `Raspberry Pi Conf
 sudo apt install aptitude
 ```
 
-**注意：不推荐升级，由于一些软件源的签名问题，以及依赖问题，强制升级会破坏你的机器人！**
+!!! warning "注意"
+
+    不推荐升级，由于一些软件源的签名问题，以及依赖问题，强制升级会破坏你的机器人！
 
 ## 救急方案
 
