@@ -1,8 +1,14 @@
 ---
+tags:
+  - Translator Tools
+  - Python
+  - Experience
+  - Projects
+  - Github
 comments: true
 ---
 
-# Translator Tools
+# 关于 Translator Tools
 
 项目地址：[Github](https://github.com/CloneWith/translator-tools)
 

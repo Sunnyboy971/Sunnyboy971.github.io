@@ -1,4 +1,8 @@
 ---
+tags:
+  - Games
+  - osu!
+  - meme
 comments: true
 ---
 

@@ -1,4 +1,7 @@
 ---
+tags:
+  - osu!danser
+  - guide
 wip: true
 comments: true
 ---

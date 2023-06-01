@@ -1,4 +1,11 @@
 ---
+tags:
+  - Yanshee
+  - AI
+  - Robotics
+  - Competition
+  - Coding
+  - Programming
 comments: true
 ---
 

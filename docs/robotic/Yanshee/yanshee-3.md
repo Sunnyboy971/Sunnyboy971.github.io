@@ -1,4 +1,12 @@
 ---
+tags:
+  - Yanshee
+  - AI
+  - Robotics
+  - Competition
+  - Optimization
+  - System
+  - Raspberry Pi
 comments: true
 ---
 

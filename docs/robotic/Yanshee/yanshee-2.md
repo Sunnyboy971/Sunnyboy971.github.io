@@ -1,4 +1,10 @@
 ---
+tags:
+  - Yanshee
+  - AI
+  - Robotics
+  - Competition
+  - Motions
 comments: true
 ---
 
