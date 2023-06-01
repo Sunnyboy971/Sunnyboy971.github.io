@@ -7,17 +7,17 @@ tags:
 
 这里主要讲述了我在高中阶段参加人工智能社团并参与一些赛事的经历与体会。
 
-## 目录
+## 目录 {#Index}
 
 目前收录的文章有：
 
 - [社团感受总结](/robotic/conclusion)
 
-### VEX 赛事
+### VEX 赛事 {#VEX}
 
 - [VEX 赛事的一些东西](/robotic/VEX%20Robotics/VEX-0)
 
-### Yanshee 机器人
+### Yanshee 机器人 {#Yanshee}
 
 - [概览](/robotic/Yanshee/yanshee-0)
 - [程序编译篇](/robotic/Yanshee/yanshee-1)
