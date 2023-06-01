@@ -11,13 +11,13 @@ osu!danser 是一款由 @Wieku 开发的 osu!standard 可视化程序。截至�
 
 出于软件的默认配置，此软件开箱即用。当然，如果能够基于个人喜好对其进行一些细微调整，就会看到令人惊艳的效果。
 
-## 获取
+## 获取 {#Get}
 
 在 Github 上可以下载 osu!danser 的最新版本。具体链接：[danser-go](https://github.com/Wieku/danser-go/releases)。网页最上面的位置是最新版本（标有绿色标签 `Latest`），可以根据个人的操作系统下载对应版本。
 
 网站下载的是 zip 格式的压缩文件，需要将其解压到单独的文件夹中才能正常使用。
 
-## 使用
+## 使用 {#Usage}
 
 截至发布日期，最新版本提供了两种使用 osu!danser 的方式：图形界面(danser.exe)和命令行(danser-cli.exe)。
 
@@ -27,7 +27,7 @@ osu!danser 是一款由 @Wieku 开发的 osu!standard 可视化程序。截至�
 
 ![osu!danser 主界面](img/danser-main.png)
 
-### 模式选择
+### 模式选择 {#Modes}
 
 osu!danser 提供了下列几种模式：
 
@@ -43,7 +43,7 @@ osu!danser 提供了下列几种模式：
 
 各种模式的细节都可以在设置中调整，会在下文具体介绍。
 
-### 谱面选择
+### 谱面选择 {#Beatmap-Selection}
 
 ![Cursor dance 和 Play osu!standard 中的谱面选择按钮](img/main-mapsel.png)
 
@@ -66,7 +66,7 @@ osu!danser 提供了下列几种模式：
     如果`Songs` 文件夹有改动，会提示你更新数据库，直接更新即可。
     ![数据库更新提示](img/confirm-db.png)
 
-### 一般设置
+### 一般设置 {#Setting}
 
 ![主界面的设置按钮](img/main-setting.png)
 
@@ -92,7 +92,7 @@ osu!danser 提供了下列几种模式：
 ![设置 Mirror Cursors = 3](img/cp-mirror.png)
 ![设置 Tag Cursors = 3](img/cp-tag.png)
 
-### 操作选择
+### 操作选择 {#Exec}
 
 主界面底部有操作选项的设置：
 
@@ -104,11 +104,11 @@ osu!danser 提供了下列几种模式：
 
 对于录制和截图，可以设置输出文件名。(`Output name`)
 
-## 配置
+## 配置 {#Configure}
 
 可以通过配置来改变 osu!danser 的行为，使其个性化。
 
-### 启动器配置
+### 启动器配置 {#Launcher}
 
 ![启动器配置](img/setting-launcher.png)
 
@@ -117,7 +117,7 @@ osu!danser 提供了下列几种模式：
 - `Show exported videos/images in explorer`：默认是开启的。当选择录制或截图时，操作完成后会在资源管理器中显示导出的文件。
 - `Preview selected maps`：默认是开启的。选中谱面后播放预览音频。
 
-### 详细设置 - 基本
+### 详细设置 - 基本 {#Basic-Setting}
 
 osu!danser 使用 json 文件来保存不同配置，可以在软件目录中找到。如果想创建新配置，可以打开 `Config:` 下拉菜单，选择 `Create new...`，以便切换。右击配置名可以进行复制、重命名、删除操作。单击 `Edit` 进入详细设置页面。
 
@@ -127,13 +127,13 @@ osu!danser 使用 json 文件来保存不同配置，可以在软件目录中找
 
     建议不要轻易改动 `EXPERIMENTAL` 下的选项。带有 `(!)` 的选项，鼠标移到文字上方会显示提示。
 
-#### 文件路径 (General)
+#### 文件路径 (General) {#General}
 
 ![路径配置](img/file-storage.png)
 
 如果遇到没有谱面或皮肤的问题，大多是由于路径设置不当。可以找到图示中的三个路径选项，如果不对，可以点击 `Browse` 进行修改，也可以直接输入。
 
-#### 环境设置
+#### 环境设置 {#Env}
 
 osu!danser 提供了与 osu! 相似的设置项，可以对照 osu! 中的设置在其中更改。
 
