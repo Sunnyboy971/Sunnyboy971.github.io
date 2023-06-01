@@ -1,6 +1,7 @@
 site_name: CloneWith's Page
 theme:
   name: material
+  custom_dir: overrides
   icon:
     logo: material/book-cog
   features:
@@ -37,10 +38,3 @@ extra:
       link: https://space.bilibili.com/2046252132
     - icon: fontawesome/brands/github
       link: https://github.com/CloneWith
-#  alternate:
-#    - name: English
-#      link: /en/ 
-#      lang: en
-#    - name: 简体中文
-#      link: /zh-CN/
-#      lang: zh
