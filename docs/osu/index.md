@@ -14,6 +14,10 @@ tags:
 
 - [杂谈](/osu/misc)
 
+### 作图与摸图 {#mapping-n-modding}
+
+- 摸图队列(/osu/mapping-n-modding/modpost)
+
 ### osu!danser 入门指南 {#Danser-Guide}
 
 - [第一节](/osu/danser-wiki/danser-1)
