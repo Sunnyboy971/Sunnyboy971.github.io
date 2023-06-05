@@ -16,7 +16,7 @@ tags:
 
 ### 作图与摸图 {#mapping-n-modding}
 
-- 摸图队列(/osu/mapping-n-modding/modpost)
+- [摸图队列](/osu/mapping-n-modding/modpost)
 
 ### osu!danser 入门指南 {#Danser-Guide}
 
