@@ -1,30 +1,35 @@
 @font-face {
     font-family: "Cascadia Code PL";
     src: url('fonts/CCPL/CascadiaCodePL.woff2');
+    font-weight: 400;
     font-display: swap;
 }
 
 @font-face {
     font-family: "Cascadia Code PL";
     src: url('fonts/CCPL/CascadiaCodePLItalic.woff2');
+    font-weight: 400i;
     font-display: swap;
 }
 
 @font-face {
     font-family: "HarmonyOS Sans SC";
-    src: url('fonts/Harmony/HarmonyOS_Sans_SC_Regular.ttf');
+    src: url('fonts/Harmony/HarmonyOS_Sans_SC_Medium.ttf');
+    font-weight: 400, 400i;
     font-display: swap;
 }
 
 @font-face {
     font-family: "HarmonyOS Sans SC";
     src: url('fonts/Harmony/HarmonyOS_Sans_SC_Bold.ttf');
+    font-weight: 700;
     font-display: swap;
 }
 
 @font-face {
     font-family: "HarmonyOS Sans SC";
-    src: url('fonts/Harmony/HarmonyOS_Sans_SC_Thin.ttf');
+    src: url('fonts/Harmony/HarmonyOS_Sans_SC_Regular.ttf');
+    font-weight: 300;
     font-display: swap;
 }
 
