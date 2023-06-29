@@ -6,6 +6,14 @@
 }
 
 @font-face {
+    font-family: "Cascadia Code PL";
+    src: url('fonts/CCPL/CascadiaCodePLItalic.woff2');
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
     font-family: "HarmonyOS Sans SC";
     src: url('fonts/Harmony/HarmonyOS_Sans_SC_Bold.ttf');
     font-weight: 700;
