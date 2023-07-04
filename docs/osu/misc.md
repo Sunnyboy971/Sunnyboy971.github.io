@@ -2,66 +2,79 @@
 tags:
   - Games
   - osu!
-  - meme
+  - misc
+  - rank
+  - credit
 comments: true
 ---
 
-# 一些模因
+# 一些东西
 
-该把什么放在这边呢？我也不知道，反正就是些很有趣的东西。看看图一乐
-
-## 有趣的聊天 {#Chat}
-
-### 水是剧毒的
-
-![2023-5-27 Reaction](img/meme-1.png)
-
-![2023-5-27 Reaction](img/meme-2.png)
-![2023-5-27 Reaction](img/meme-3.png)
-![2023-5-27 Reaction](img/meme-4.png)
-
-### 日常变猫娘
-
-![2023-5-27 Reaction](img/meme-10.png)
-
-羡慕猫娘（bushi
-
-### 会见老外(?)
-
-![2023-5-27 Reaction](img/meme-5.png)
-![2023-5-27 Reaction](img/meme-6.png)
-![2023-5-27 Reaction](img/meme-7.png)
-![2023-5-27 Reaction](img/meme-8.png)
-
----
-
-![2023-5-27 Reaction](img/meme-9.png)
+该把什么放在这边呢？一些普通文章没法容纳的东西，排名、历史之类的，看着图一乐。
 
 ## 奇怪的数字又增加了 {#Figures}
 
 ![2023-5-27 排名信息](img/933886.png)
 
-你完全可以发现一些很完美的数字。
-
 ??? info "展开"
     逸一时，误一世！
 
-## 小科普 {#KB}
+![2023-7-4 排名信息](img/872225.png)
 
-### Firetruck
+终于达到 600pp 了 xD
 
-经查 属于一种较为委婉的**发泄方式** 使用例见下：
+## 致谢 {#Credit}
 
-![2023-5-27 Reaction](img/firetruck-1.png)
+我遇到了很多对我有帮助或是意气相投的人，在此一并感谢：
 
----
+用户列表一并按 UID 排序，不分先后。
 
-![2023-5-27 Reaction](img/firetruck-2.png)
-![2023-5-27 Reaction](img/firetruck-3.png)
-![2023-5-27 Reaction](img/firetruck-4.png)
+其中，特别感谢 [Muziyami](https://osu.ppy.sh/users/7003013)，在 wiki 编写和翻译、社区活动等方面都令我印象深刻，能遇见您是我的荣幸！
 
-### 安安
+### 好友 {#Mutual}
 
-`碎觉，走路安安，ag安安，小磨牙安安，抽口气安安，咖喱安安，粟米安安，圆圈安安，显卡安安，薯片安安，大伙安安，可能在的喵白也安安`
+- [BanchoBot](https://osu.ppy.sh/users/3)
+- [TK233](https://osu.ppy.sh/users/2874465)
+- [shinmire](https://osu.ppy.sh/users/8270053)
+- [liuhangxing](https://osu.ppy.sh/users/11709578)
+- [Murasame_sama](https://osu.ppy.sh/users/23033293)
+- [NameNotFoundLol](https://osu.ppy.sh/users/23882854)
+- [Okayu1982](https://osu.ppy.sh/users/31700887)
+- [Gin29](https://osu.ppy.sh/users/31873859)
 
-我想这应该属于请安吧？那又为什么呢？奇怪的问题又增加了。
+### 摸图 {#Modders}
+
+值得一提的是，我的许多好友也帮助我测试了谱面，并且提出了很好的建议，谢谢你们！
+
+- [DPPt444444](https://osu.ppy.sh/users/1819342)
+
+### 难度合作 {#Collab}
+
+- [NapstaCool](https://osu.ppy.sh/users/12430751)
+- [what the FU-](https://osu.ppy.sh/users/23275794)
+- [x_e-n_o](https://osu.ppy.sh/users/23677548)
+
+### 多人游戏 {#Multi}
+
+- [-Nezuko-](https://osu.ppy.sh/users/11474225)
+- [CascaBersk](https://osu.ppy.sh/users/13707659)
+- [xialianJK](https://osu.ppy.sh/users/16779984)
+- [ShirleyUwU](https://osu.ppy.sh/users/18168577)
+- [rainierchow](https://osu.ppy.sh/users/18180158)
+- [samsHyper141](https://osu.ppy.sh/users/22713636)
+- [master3232](https://osu.ppy.sh/users/23846569)
+- [Phytality](https://osu.ppy.sh/users/24736731)
+- [KantanBoi](https://osu.ppy.sh/users/25865225)
+- [Ketakonjin](https://osu.ppy.sh/users/29454292)
+- [raiyanplayz](https://osu.ppy.sh/users/31713934)
+- [DampedApollo178](https://osu.ppy.sh/users/30608793)
+- [TOPiC_6958](https://osu.ppy.sh/users/31918202)
+- [osu_player_21](https://osu.ppy.sh/users/32290558)
+- [EuphenACT](https://osu.ppy.sh/users/32874224)
+- [Hiruma_Iroizz](https://osu.ppy.sh/users/33034918)
+- [CloserFtHalsey](https://osu.ppy.sh/users/33055947)
+- [benete](https://osu.ppy.sh/users/33330915)
+- [RedRacoon](https://osu.ppy.sh/users/33381379)
+- [Yukino2308](https://osu.ppy.sh/users/33501611)
+- [cacaAA](https://osu.ppy.sh/users/33606250)
+- [ll993675730](https://osu.ppy.sh/users/33697130)
