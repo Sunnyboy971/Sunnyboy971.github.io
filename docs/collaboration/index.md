@@ -21,8 +21,8 @@ Currently receiving/looking for cooperation on several projects. The detail as f
 
 ## osu! 作图 Mapping {#mapping}
 
-- 客串难度 Guest Difficulties [详见本文 Details](#mapping)
-- 合作难度 Collab Difficulites [详见本文 Details](#mapping)
+- 客串难度 Guest Difficulties [详见本文 Details](/osu/mapping-n-modding#guestdiff)
+- 合作难度 Collab Difficulites [详见本文 Details](/osu/mapping-n-modding#collabdiff)
 - 摸图 Modding (NM and M4M) [详见本文 Details](/osu/mapping-n-modding/modpost)
 
 This article is valid for a long time.
