@@ -20,4 +20,6 @@ tags:
 
 ### 余兴未了 {#return}
 
+## 结局？ {#ending}
+
 ## 一些思考 {#thoughts}
