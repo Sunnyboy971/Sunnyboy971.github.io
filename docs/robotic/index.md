@@ -15,7 +15,10 @@ tags:
 
 ### VEX 赛事 {#VEX}
 
-- [VEX 赛事的一些东西](/robotic/VEX%20Robotics/VEX-0)
+- [概览](/robotic/VEX-Robotics/VEX-0)
+- [硬件篇](/robotic/VEX-Robotics/VEX-1)
+- [程序篇](/robotic/VEX-Robotics/VEX-2)
+- [杂篇](/robotic/VEX-Robotics/VEX-3)
 
 ### Yanshee 机器人 {#Yanshee}
 
