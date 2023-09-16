@@ -1,6 +1,6 @@
 ---
 tags:
-  - Games
+  - games
   - osu!
   - misc
   - rank

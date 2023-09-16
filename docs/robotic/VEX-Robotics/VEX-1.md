@@ -1,7 +1,8 @@
 ---
 tags:
   - VEX
-  - Robotics
+  - robotics
+  - hardware
 ---
 
 # VEX 赛事的一些东西 - 硬件篇

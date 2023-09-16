@@ -2,10 +2,10 @@
 tags:
   - Yanshee
   - AI
-  - Robotics
-  - Competition
-  - Coding
-  - Programming
+  - robotics
+  - competition
+  - coding
+  - programming
 comments: true
 ---
 

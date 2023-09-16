@@ -1,6 +1,6 @@
 ---
 tags:
-  - Robotics
+  - robotics
 ---
 
 # 机器人 - 本篇

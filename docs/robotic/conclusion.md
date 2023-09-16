@@ -1,8 +1,8 @@
 ---
 tags:
-  - Experience
-  - Clubs
-  - Robotics
+  - experience
+  - clubs
+  - robotics
 comments: true
 ---
 

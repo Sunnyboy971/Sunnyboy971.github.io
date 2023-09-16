@@ -1,7 +1,8 @@
 ---
 tags:
   - VEX
-  - Robotics
+  - robotics
+  - coding
 ---
 
 # VEX 赛事的一些东西 - 程序篇
