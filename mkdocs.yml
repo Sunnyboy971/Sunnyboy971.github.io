@@ -13,8 +13,10 @@ theme:
       comp: material/fire
       play: material/gamepad-variant
       ui: material/palette
+      acc: material/human
       misc: material/more
       help: material/information
+      wip: material/pencil
 
   features:
     - navigation.instant
@@ -90,6 +92,9 @@ extra:
     misc: misc
     design: ui
     UI: ui
+    WIP: wip
+    accessibility: acc
+    interaction: acc
   social:
     - icon: simple/bilibili
       link: https://space.bilibili.com/2046252132
