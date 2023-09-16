@@ -4,6 +4,17 @@ theme:
   custom_dir: overrides
   icon:
     logo: material/book-cog
+    tag:
+      default: material/tag-text
+      robot: material/robot
+      exp: material/timer-star
+      code: material/code-tags
+      comp: material/fire
+      play: material/gamepad-variant
+      ui: material/palette
+      misc: material/more
+      help: material/information
+
   features:
     - navigation.instant
     - navigation.tracking
@@ -64,6 +75,20 @@ markdown_extensions:
       emoji_generator: !!python/name:materialx.emoji.to_svg
 
 extra:
+  tag:
+    robotics: robot
+    VEX: robot
+    Yanshee: robot
+    experiences: exp
+    coding: code
+    programming: code
+    competition: comp
+    games: play
+    osu: play
+    guide: help
+    misc: misc
+    design: ui
+    UI: ui
   social:
     - icon: simple/bilibili
       link: https://space.bilibili.com/2046252132

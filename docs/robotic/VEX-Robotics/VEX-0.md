@@ -1,7 +1,8 @@
 ---
 tags:
   - VEX
-  - Robotics
+  - robotics
+  - experience
 ---
 
 # VEX 赛事的一些东西 - 概览

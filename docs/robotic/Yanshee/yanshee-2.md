@@ -2,9 +2,9 @@
 tags:
   - Yanshee
   - AI
-  - Robotics
-  - Competition
-  - Motions
+  - robotics
+  - competition
+  - motions
 comments: true
 ---
 

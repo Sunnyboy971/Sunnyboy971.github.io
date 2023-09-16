@@ -2,10 +2,10 @@
 tags:
   - Yanshee
   - AI
-  - Robotics
-  - Competition
-  - Optimization
-  - System
+  - robotics
+  - competition
+  - optimization
+  - system
   - Raspberry Pi
 comments: true
 ---

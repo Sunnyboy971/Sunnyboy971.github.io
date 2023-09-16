@@ -1,10 +1,10 @@
 ---
 tags:
-  - Experience
+  - experience
   - Yanshee
   - AI
-  - Robotics
-  - Competition
+  - robotics
+  - competition
 ---
 
 # 关于我和 Yanshee 的那些事 - 概览
