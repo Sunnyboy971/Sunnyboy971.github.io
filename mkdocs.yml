@@ -1,8 +1,5 @@
 site_name: CloneWith's Page
-nav:
-  - Home: 'index.md'
-  - Chat: 'chat.md'
-  - Tag list: 'taglist.md'
+
 theme:
   name: material
   custom_dir: overrides
