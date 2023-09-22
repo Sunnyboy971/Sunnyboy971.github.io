@@ -67,7 +67,7 @@ osu!danser 提供了下列几种模式：
 
 | 按钮 | 介绍 |
 | :-- | :-- |
-| `Speed/Pitch` | 调节播放速度和音调，类似于 osu!lazer 中模组的自定义设置 |
+| `Speed/Pitch` | 调节播放速度和音调，类似于 osu!lazer 中模组的自定义设置，二者调节范围均为 `0.10-3.00` 倍 |
 | `Time/Offset` | 调节播放的起止时间，以及音频延迟，也可以选择跳过谱面开头。最新版本中新加入了难度图显示 ![界面显示](img/button-to.png) |
 | `Mods` | 选择模组，大致与 osu! 中相同 |
 | `Adjust difficulty` | 调节谱面的 AR 和 CS 值，类似于 osu!lazer 中的 DA 模组 |

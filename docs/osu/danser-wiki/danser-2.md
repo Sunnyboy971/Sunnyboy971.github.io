@@ -11,6 +11,24 @@ comments: true
 
 此文章将详细讲解 osu!danser 中的一些配置细节，重点在游玩界面的自定义上。
 
+## osu!danser 中的坐标系 {#Coordinate}
+
+!!! info "阅读提示"
+
+    这里讲述的内容涉及一些数学知识，已经了解的读者可以跳过。
+
+大多数元素位置上的确定与对齐方式都与程序内定的一个坐标系有关。由于其普遍性与统一性，作者就先花一些时间，在这里先行解释。
+
+在 osu!danser 中，以窗口左上角为原点建立坐标系，水平向右对应 X 轴正方向，竖直向下对应 Y 轴正方向。坐标系的数值以 osu! pixel 为单位（这一点有待证实）。
+
+由此，不难按照上述原则，设置下面一些参数：
+
+| 参数 | 解释 |
+| :-- | :-- |
+| `Position` | 在坐标系上的*绝对*位置 |
+| `Offset` | 多用于 osu! 中原有元素，指示以元素几何中心为原点，建立坐标系上的*相对*位置 |
+| `Align` | 默认使用元素的 9 个点（顶部/中间/底部，左侧/中间/右侧），标明此点的坐标用于元素位置的确定 |
+
 ## 游玩界面元素 (`Gameplay`) {#Gameplay}
 
 !!! warning "注意"
@@ -24,6 +42,17 @@ comments: true
 ### 偏差计 {#ErrorMeter}
 
 #### 打击偏差计 (`Hit error meter`) {#HitError}
+
+`Scale with speed` 色块长度与速度系数成反比例缩放。
+
+```go
+errorPos := error * 0.8
+if settings.Gameplay.HitErrorMeter.ScaleWithSpeed {
+  errorPos /= meter.diff.Speed
+}
+```
+
+`Static unstable rate` 使显示的不稳定率数值更稳定
 
 #### 瞄准偏差计 (`Aim error meter`) {#AimError}
 
