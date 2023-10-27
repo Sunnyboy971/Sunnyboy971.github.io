@@ -11,6 +11,8 @@ tags:
 
 目录制作中。
 
+[如何做出一个还能看得过去的翻译？](https://www.mcbbs.net/forum.php?mod=viewthread&tid=899199)
+
 ---
 
 *All begins here...*
