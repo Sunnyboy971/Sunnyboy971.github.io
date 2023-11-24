@@ -9,7 +9,12 @@ tags:
 
 ## 目录 {#index}
 
-目录制作中。
+### 参考资料
+
+- [osu!wiki 中英翻译对照表（自用）](ref/osuwiki-ezref)
+- [余光中：怎样改进英式中文？- 论中文的常态与变态](ref/improve-EC)
+
+### 收藏夹 {#fav}
 
 [如何做出一个还能看得过去的翻译？](https://www.mcbbs.net/forum.php?mod=viewthread&tid=899199)
 
