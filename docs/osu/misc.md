@@ -29,6 +29,8 @@ comments: true
 
 用户列表一并按 UID 排序，不分先后。
 
+因为疏于维护的原因，这部分并不能总是保持最新，会尽快跟进，不用在意！
+
 ### 好友 {#mutual}
 
 - [BanchoBot](https://osu.ppy.sh/users/3)
@@ -36,11 +38,13 @@ comments: true
 - [Muziyami](https://osu.ppy.sh/users/7003013)
 - [shinmire](https://osu.ppy.sh/users/8270053)
 - [liuhangxing](https://osu.ppy.sh/users/11709578)
+- [cdwcgt](https://osu.ppy.sh/users/14721101)
 - [Murasame_sama](https://osu.ppy.sh/users/23033293)
 - [NameNotFoundLol](https://osu.ppy.sh/users/23882854)
+- [Proxyerium](https://osu.ppy.sh/users/25074263)
 - [Okayu1982](https://osu.ppy.sh/users/31700887)
 - [Gin29](https://osu.ppy.sh/users/31873859)
-- [cdwcgt](https://osu.ppy.sh/users/14721101)
+- [EuphenACT](https://osu.ppy.sh/users/32874224)
 
 ### 摸图 {#modders}
 
@@ -71,7 +75,6 @@ comments: true
 - [DampedApollo178](https://osu.ppy.sh/users/30608793)
 - [TOPiC_6958](https://osu.ppy.sh/users/31918202)
 - [osu_player_21](https://osu.ppy.sh/users/32290558)
-- [EuphenACT](https://osu.ppy.sh/users/32874224)
 - [Hiruma_Iroizz](https://osu.ppy.sh/users/33034918)
 - [CloserFtHalsey](https://osu.ppy.sh/users/33055947)
 - [benete](https://osu.ppy.sh/users/33330915)
