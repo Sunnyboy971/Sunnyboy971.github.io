@@ -2,8 +2,6 @@
 tags:
   - osu!danser
   - guide
-  - WIP
-wip: true
 comments: true
 ---
 
