@@ -133,11 +133,3 @@ if settings.Gameplay.HitErrorMeter.ScaleWithSpeed {
 ### 游玩区域边界 (`Boundaries`) {#Boundaries}
 
 在游玩区域四周绘制边框。
-
-## 剩下的东西
-
-系列文章的内容之前有在 B 站专栏上发表过一部分，有兴趣的读者可以移步前往，传送门：
-
-1. [获取与基本使用](https://www.bilibili.com/read/cv23096754)
-2. [基本配置](https://www.bilibili.com/read/cv23105271)
-3. [进阶配置 - 元素](https://www.bilibili.com/read/cv23185996/)
