@@ -20,5 +20,8 @@ tags:
 
 ### osu!danser 入门指南 {#Danser-Guide}
 
-- [第一节](/osu/danser-wiki/danser-1)
-- [第二节](/osu/danser-wiki/danser-2)
+- [概述与安装](/osu/danser-wiki/danser-1)
+- [部件自定义](/osu/danser-wiki/danser-2)
+- [Cursor dance](/osu/danser-wiki/danser-3)
+- [Knockout](/osu/danser-wiki/danser-4)
+- [后记](/osu/danser-wiki/danser-5)

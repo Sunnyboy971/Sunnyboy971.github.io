@@ -10,11 +10,11 @@ comments: true
 
 ## 前言 {#preface}
 
-`Update 2024-1-18:`
+`Update 2024-3-2:`
 
-一转眼半年过去了，突然会感觉不知所措，总有疲惫感涌上心头。
+啊 久违了 100 天 加油加油
 
-不知道怎么了，但还是希望自己的努力，能获得理想的结果。
+有一种 ____ 的美
 
 ## 关于我 {#about}
 
@@ -28,6 +28,7 @@ comments: true
 - 翻译爱好者
   - osu!wiki
   - osu!lazer Crowdin Translation
+  - 其他在 Crowdin, Transifex 与 Weblate 上的项目
 - osu! 萌新（字面含义，**3星图水准业余玩家**）
 - 菜鸟 Mapper
 

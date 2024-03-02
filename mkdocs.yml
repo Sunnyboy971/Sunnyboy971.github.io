@@ -96,8 +96,6 @@ extra:
     accessibility: acc
     interaction: acc
   social:
-    - icon: simple/bilibili
-      link: https://space.bilibili.com/2046252132
     - icon: fontawesome/brands/github
       link: https://github.com/CloneWith
     - icon: simple/osu
