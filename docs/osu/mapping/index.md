@@ -42,7 +42,7 @@ comments: true
 
 - Discord（这是首选方案）
 - 对应论坛帖子的原文中
-- 此仓库 `maps` 分支的根目录（考虑不再使用）
+- 我的[临时仓库](https://github.com/clonewith/file-temp)
 - 某个网盘的分享链接
 
 如果想找我做 Collab / Guest Diff，请**参考首页的联系方式**，我会在*看到的*第一时间回复。
@@ -53,7 +53,7 @@ comments: true
 
 | 标题 | 艺术家 | 性质 | 备注 |
 | :-: | :-: | :-: | :-: |
-| [I Got Smoke](https://osu.ppy.sh/beatmapsets/2000102) | V在燃烧 | 个人 | [附录](/osu/mapping/gotsmoke) |
+| [I Got Smoke](https://osu.ppy.sh/beatmapsets/2000102) | V在燃烧 | 个人 | 附录 |
 | [HIU-Boom](https://osu.ppy.sh/beatmapsets/2019937) | TØm | [发起合作](https://osu.ppy.sh/community/forums/topics/1787697) | / |
 | [Frozen Leaves](https://osu.ppy.sh/beatmapsets/2005918) | Wisp X | [发起合作](https://osu.ppy.sh/community/forums/topics/1776164) | / |
 | [Chowder Theme Song (TV Size)](https://osu.ppy.sh/beatmapsets/2005881) | Nicky Jones (4) | [客串](https://osu.ppy.sh/beatmapsets/2005881#osu/4172871) | / |

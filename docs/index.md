@@ -4,21 +4,17 @@ comments: true
 
 # 主页
 
-***你 好 呀~***
+***Welcome to my home on GitHub!***
 
 我是 **CloneWith**，中文名**复予**。很高兴见到你！
 
-## 前言 {#preface}
+!!! info About Links
+    出于部署问题，暂时从各个页面与目录删除了本站内的交互链接，请大家先使用框架内自带的**网站目录**。
 
-`Update 2024-3-2:`
-
-啊 久违了 100 天 加油加油
-
-有一种 ____ 的美
+!!! info To English readers
+    This site features mainly *Simplified Chinese* articles.
 
 ## 关于我 {#about}
-
-给自己尝试贴几个标签：
 
 - 学生党（现在是高三）
 - 编程爱好者（下列语言均在学习中）
@@ -28,7 +24,7 @@ comments: true
 - 翻译爱好者
   - osu!wiki
   - osu!lazer Crowdin Translation
-  - 其他在 Crowdin, Transifex 与 Weblate 上的项目
+  - 其他各种在 Crowdin, Transifex 与 Weblate 上的项目
 - osu! 萌新（字面含义，**3星图水准业余玩家**）
 - 菜鸟 Mapper
 
@@ -36,8 +32,6 @@ comments: true
 
 如果你有什么想问问我的问题，可以私信我。我会很乐意帮你解答！
 
-要找到联系方式，滚动到页面底部，右下角的图标悬停即可。
+要找到联系方式，滚动到页面底部，右下角的图标悬停即可。建议你使用 **哔哩哔哩私信**。
 
-**悲报：近日 Discord 访问受限，若要联系请暂时不要使用。**
-
-不保证能够及时回复，但有时间会看一看。
+不保证能够及时回复 xD

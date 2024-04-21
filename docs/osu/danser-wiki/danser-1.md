@@ -41,7 +41,6 @@ osu!danser 提供了下列几种模式：
 | `Watch a knockout` | 一次选中多个回放，显示一次游玩中多个玩家（包括 Auto）的光标轨迹、按键、准确度及等级（类似于多人同屏） |
 | `Play osu!standard` | 玩玩 osu! 标准模式 |
 
-
 各种模式的细节都可以在设置中调整，会在下文具体介绍。
 
 ### 谱面选择 {#Beatmap-Selection}

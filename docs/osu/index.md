@@ -12,16 +12,16 @@ tags:
 
 目前收录的文章有：
 
-- [杂谈](/osu/misc)
+- 杂谈
 
 ### 作图与摸图 {#mapping-n-modding}
 
-- [摸图队列](/osu/mapping-n-modding/modpost)
+- 摸图队列
 
 ### osu!danser 入门指南 {#Danser-Guide}
 
-- [概述与安装](/osu/danser-wiki/danser-1)
-- [部件自定义](/osu/danser-wiki/danser-2)
-- [Cursor dance](/osu/danser-wiki/danser-3)
-- [Knockout](/osu/danser-wiki/danser-4)
-- [后记](/osu/danser-wiki/danser-5)
+- 概述与安装
+- 部件自定义
+- Cursor dance
+- Knockout
+- 后记
