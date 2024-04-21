@@ -8,6 +8,11 @@ comments: true
 
 我是 **CloneWith**，中文名**复予**。很高兴见到你！
 
+- 寻找合作项目说明请点 `关于合作 Collaboration`
+- osu!danser 入门指南请点 `osu!`
+- 翻译表、本地化相关请点 `Translation`
+- 开发日志请点 `Code`
+
 !!! info About Links
     出于部署问题，暂时从各个页面与目录删除了本站内的交互链接，请大家先使用框架内自带的**网站目录**。
 
