@@ -18,6 +18,7 @@ Currently receiving/looking for cooperation on several projects. The detail as f
 
 !!! warning 注意
     Due to academic reasons, I would not have enough time for collaboration. Despite this, I will still read your request *at least every weekend*. So **be patient** and, I am always happy to receive your request!
+
     出于学业原因，没有充足时间用于合作项目。即便如此，我也会在*至少每周末*阅读您的需求。请**耐心等待**。
 
 ## 软件项目 Software {#software}
@@ -28,17 +29,9 @@ opsu! is an *unofficial* open-source osu! client originally created by [@itdelat
 
 ### [かたわ少女: Re-Engineered](https://fhs.sh)
 
-**Katawa Shoujo: Re-Engineered** is a fan-made modernization of the classic visual novel of *Four Leaf Studios* by **Fleeting Heartbeat Studios**, and I'm interested in translating it into *Simplified Chinese*.
+**Katawa Shoujo: Re-Engineered** is a fan-made modernization of the classic visual novel of *Four Leaf Studios* by **Fleeting Heartbeat Studios**, and I'm porting the original translation into *Simplified Chinese*.
 
-是藉由 *Four Leaf Studios* 的原作重新编写的新版本，具有多方面的功能改进。我很希望将其翻译为简体中文，但工作量不免过高，且难以通过网络上的链接找到原来的翻译组了。所以如果有人也想翻译的，请务必带上我！目前要解决的问题：
-
-- 与默认字体 *Playtime* 相称的中日韩字体（至少是中文字体）
-  - [id_ぽっぷふとまる](https://idfont.jp/infos_mb.html): 日文
-  - [濑户字体](http://setofont.osdn.jp): 中文有限
-  - [CJKFonts 全濑体（AI 生成）](https://cjkfonts.io/blog/cjkfonts_allseto): SIL Open Font License 1.1
-  - [杨任东竹石体](https://mp.weixin.qq.com/s/7kv3i_YEs7x9_9IrCDYvBA): 许可未明确
-- 我所在的区域难以克隆 Codeberg 与 GitHub 上的大容量仓库
-- 翻译分配与规划
+是藉由 *Four Leaf Studios* 的原作重新编写的新版本，具有多方面的功能改进。我找到了原来的汉化版本，正在迁移原有翻译，希望有人协助校对。
 
 ## osu! 作图 Mapping {#mapping}
 

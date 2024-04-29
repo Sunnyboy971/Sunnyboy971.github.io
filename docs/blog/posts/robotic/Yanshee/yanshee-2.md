@@ -1,16 +1,21 @@
 ---
+date:
+  created: 2023-06-01
 tags:
   - Yanshee
   - AI
   - robotics
   - competition
   - motions
+categories:
+  - Robotics
+  - Yanshee
 comments: true
 ---
 
 # 关于我和 Yanshee 的那些事 - 动作编译篇
 
-执行赛事程序时，需要控制机器人执行大量动作。系统内部只自带了一小部分动作，剩下的绝大部分需要自己建立。
+执行赛事程序时，需要控制机器人执行大量动作。系统内部只自带了一小部分动作，剩下的绝大部分需要自己建立。<!-- more -->
 
 ## 编译工具 {#Editor}
 

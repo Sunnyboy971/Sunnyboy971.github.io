@@ -1,17 +1,23 @@
 ---
+date:
+  created: 2023-06-01
+  updated: 2023-07-16
 tags:
   - experience
   - Yanshee
   - AI
   - robotics
   - competition
+categories:
+  - Robotics
+  - Yanshee
 ---
 
 # 关于我和 Yanshee 的那些事 - 概览
 
 **2022.10 - 2023.5.**
 
-这段跨越一年的历程，在我看来无疑是奇妙的，充满了坎坷与欣喜。
+这段跨越一年的历程，在我看来无疑是奇妙的，充满了坎坷与欣喜。<!-- more -->
 
 ## 开端 - 我是如何开始的 {#Beginning}
 
