@@ -6,7 +6,6 @@ tags:
   - osu!wiki
   - contribution
   - self
-  - WIP
 comments: true
 ---
 # osu!wiki 中英翻译对照表
@@ -25,11 +24,18 @@ comments: true
 3. 圈内玩家常用说法
 4. 个人补充的
 
-等等。这个对照表暂时限于自用，因此可能不会花太多时间去维护什么的。如果对表中内容有什么想法，可在评论区交流，私信我也行。
+等等。这个对照表暂时限于自用，因此有些内容可能缺失或者不太正确。如果对表中内容有什么想法，可在评论区交流，私信我也行。
 
 ## 目录 {#index}
 
-\*等待补全
+- [动作](#action)
+- [谱面相关](#beatmap)
+- [游玩相关](#gameplay)
+- [客户端](#client)
+- [规则](#rules)
+- [组织](#org)
+- [活动](#activity)
+- [其他](#misc)
 
 ## 动作 {#action}
 
@@ -37,10 +43,10 @@ comments: true
 
 | 英文 | 中文 | 备注 |
 | :-- | :-- | :-- |
-| Map (Mapping) | 作图，制图，制谱 | |
-| Mod (Modding) | 摸图，飞图 | |
-| Nominate | 提名 | |
-| Collab (Beatmap collabration) | 谱面合作 | |
+| Map (Mapping) | 作图，制图，制谱 |  |
+| Mod (Modding) | 摸图，飞图 |  |
+| Nominate | 提名 |  |
+| Collab (Beatmap collabration) | 谱面合作 |  |
 | Hype | 推荐（谱面） | 谱面讨论页上的喇叭图标 |
 
 ## 谱面相关 {#beatmap}
@@ -48,23 +54,23 @@ comments: true
 | 英文 | 中文 | 备注 |
 | :-- | :-- | :-- |
 | Beatmap (Map) | 谱面 | 常用：地图，图 |
-| Difficulty (Diff) | 难度 | |
-| Beatmap project | 谱面项目，作图项目 | |
+| Difficulty (Diff) | 难度 |  |
+| Beatmap project | 谱面项目，作图项目 |  |
 | Guest difficulty | 客串难度 | 往往是谱面项目的一部分 |
 | Authentic beatmap | 仿真谱面（传统谱面） | 仿造 DS 游戏作图 |
-| Difficulty spread (Spread) | 难度分布 | |
+| Difficulty spread (Spread) | 难度分布 |  |
 
 ### 分类 {#category}
 
 | 英文 | 中文 | 备注 |
 | :-- | :-- | :-- |
-| Ranked | 上架 | |
-| Qualified | 过审 | |
-| Approved | 达标 | |
-| Loved | 社区喜爱 | |
-| WIP | 制作中 | |
-| Pending | 待定 | |
-| Graveyard | 坟场 | |
+| Ranked | 上架 |  |
+| Qualified | 过审 |  |
+| Approved | 达标 |  |
+| Loved | 社区喜爱 |  |
+| WIP | 制作中 |  |
+| Pending | 待定 |  |
+| Graveyard | 坟场 |  |
 
 ### 信息 {#info}
 
@@ -74,18 +80,19 @@ comments: true
 | Approach rate | 缩圈速度 | AR |
 | Overall difficulty | 判定严度 | OD，Crowdin 翻译：整体难度 |
 | HP drain rate | 掉血速度 | HP |
-| Star Rating | 星数评价 | |
-| Lead-in time | 导入时间 | |
-| Drain time / length | 掉血时间 | |
-| Stack leniency | 堆叠度 | |
+| Star Rating | 星数评价 |  |
+| Lead-in time | 导入时间 |  |
+| Drain time / length | 掉血时间 |  |
+| Stack leniency | 堆叠度 |  |
 
 ## 游玩相关 {#gameplay}
 
 | 英文 | 中文 | 备注 |
 | :-- | :-- | :-- |
-| Gameplay | 游玩（过程） | |
-| Game modifier (Mods) | （游戏）模组 | |
-| Tournament | 赛事，锦标赛 | |
+| Gameplay | 游玩（过程） |  |
+| Game modifier (Mods) | （游戏）模组 |  |
+| Tournament | 赛事，锦标赛 |  |
+| Badge weighted seeding (**BWS**) | 奖牌加权选种 |  |
 
 ### 元素 {#element}
 
@@ -93,8 +100,19 @@ comments: true
 | :-- | :-- | :-- |
 | Health | 血量 | 另有：生命值 |
 | Score | 分数，成绩 | [^context-score] |
-| Grade | 评级，等级 | |
-| Judgement | 判定 | |
+| Grade | 评级，等级，评价 |  |
+| Judgement | 判定 |  |
+| Performance points | 表现分 |  |
+| Hit circle | 打击圈，圆圈 |  |
+| Approach circle | 缩圈 |  |
+| Slider | 滑条 | 译同 osu!taiko 中的 Drumrolls |
+| Spinner | 转盘 | 译同 osu!taiko 中的 Denden |
+| Fruit | 大果，水果 | osu!catch 中的圆圈 |
+| Fruit stream | 水果串 | osu!catch 中的滑条 |
+| Banana | 香蕉 | osu!catch 中转盘元素 |
+| Hyperfruit | 红果 | osu!catch 中，需要跳 |
+| Notes | 音符，单点音符 | 后者常见于 osu!mania 相关翻译 |
+| Hold notes | 长按音符 | osu!mania 中的滑条或转盘 |
 
 ## 客户端 {#client}
 
@@ -107,7 +125,8 @@ comments: true
 | Stable | 稳定版 | 每月更新 |
 | Beta | 候选版 | 每周更新 |
 | Cutting edge | 测试版 | 不定期更新 |
-| osu!lazer (lazer) | **不译** | |
+| osu!stable (stable) | **不译** |  |
+| osu!lazer (lazer) | **不译** |  |
 
 ### 界面 {#interface}
 
@@ -122,14 +141,41 @@ comments: true
 
 | 英文 | 中文 | 备注 |
 | :-- | :-- | :-- |
-| Ranking criteria (RC) | 谱面上架标准 | |
+| Ranking criteria (RC) | 谱面上架标准 |  |
+| *Simplified* ranking criteria | 简版上架标准 |  |
+| Content usage permissions | 内容使用规范 |  |
+| Content voting process | 内容投票流程 |  |
+| Contributor *code of conduct* | 贡献者公约 |  |
+| *Explicit* content | 不良内容 |  |
+| Song content rules | 歌曲内容规定 |  |
+| Visual content *considerations* | 视觉内容注意事项 |  |
 
 ## 组织 {#org}
 
-用户组及相关成员。
+用户组及相关成员。主要信息来自 [osu! wiki 的成员页面](https://osu.ppy.sh/wiki/zh/People)。
 
 | 英文 | 中文 | 备注 |
 | :-- | :-- | :-- |
+| Account Support Team | 账号支持团队 |  |
+| Beatmap Appreciation Team (**BAT**) | ? |  |
+| Beatmap *Nominators* (**BN**) | 谱面审核成员 |  |
+| Beatmap Spotlight Curators | ? |  |
+| *Centur*ions | 百夫长 | 已上架谱面 >= 100 |
+| Community Contributors | 社区贡献者 |  |
+| *Completion*ists | 全收集者 |  |
+| Developers | 开发团队 |  |
+| *Elite* Nominators | 优秀提名者 |  |
+| Featured Artists (**FA**) | 精选艺术家 |  |
+| Global Moderation Team (**GMT**) | 全局管理团队 |  |
+| Language Surveillance Division | ? |  |
+| Mapping Assistance Team (**MAT**) | ? |  |
+| Nomination *Assessment* Team (**NAT**) | 审核评估团队 |  |
+| Performance Points (**PP**) Committee | ? |  |
+| Project Loved Team | Project Loved 团队 | 专有名词不译 |
+| Quality Assurance Team (**QAT**) | ? |  |
+| Technical Support Team | 技术支持团队 |  |
+| Tournament Committee | 锦标赛委员会 |  |
+| osu! Alumni | osu! 名人堂 |  |
 
 ## 活动 {#activity}
 
@@ -137,6 +183,7 @@ comments: true
 
 | 英文 | 中文 | 备注 |
 | :-- | :-- | :-- |
+| osu! World Cup | osu! 世界杯 |  |
 
 ## 其他 {#misc}
 
