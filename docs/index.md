@@ -21,8 +21,11 @@ comments: true
 
 ## 关于我 {#about}
 
-- 学生党（现在是高三）
+有一种很奇怪的感觉，每天总是有很多事情要做...明明毕业了还是好累啊😅
+
+- 学生党（高三毕业生）
 - 编程爱好者（下列语言均在学习中）
+  - Java / Kotlin
   - Python
   - C++
   - C#
@@ -30,7 +33,7 @@ comments: true
   - osu!wiki
   - osu!lazer Crowdin Translation
   - 其他各种在 Crowdin, Transifex 与 Weblate 上的项目
-- osu! 萌新（字面含义，**3星图水准业余玩家**）
+- osu! 萌新（字面含义，**< 3星图水准业余玩家**）
 - 菜鸟 Mapper
 
 ## 联系 {#contact}
