@@ -55,6 +55,18 @@ Arch 对设备配置的要求并不高，但设备的配置会影响到安装过
 
     坐等一个链接...
 
+## 特典：时钟同步设置
+
+在 Arch 中，系统默认会将**硬件**时钟时间设置为*协调世界时 (UTC)*，而 Windows 默认将其设置为*本地时间*，因此当从 Arch 重启到 Windows 系统时，会导致一个 8 小时的系统级时差。
+
+这一点在[Archlinux Wiki 的双系统指南](https://wiki.archlinuxcn.org/wiki/%E7%B3%BB%E7%BB%9F%E6%97%B6%E9%97%B4#Windows_%E7%B3%BB%E7%BB%9F%E4%BD%BF%E7%94%A8_UTC)中有所提及，可以使用注册表提前修正。
+
+这里需要使用**管理员权限的命令提示符 (cmd)**，输入如下命令：
+
+```sh
+reg add "HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\TimeZoneInformation" /v RealTimeIsUniversal /d 1 /t REG_DWORD /f
+```
+
 ## 下载与转化镜像
 
 在 [Archlinux 官方下载页面](https://archlinux.org/download)获取镜像文件，你可以向下滚动，在 `China` 小节对应的部分任选一个链接，从而在镜像站点下载文件，会稍微快一些。镜像大小约为 1 GB 左右。
