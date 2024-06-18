@@ -13,10 +13,10 @@ comments: true
 - 翻译表、本地化相关请点 `Translation`
 - 开发日志请点 `Code`
 
-!!! info About Links
+!!! info "About Links"
     出于部署问题，暂时从各个页面与目录删除了本站内的交互链接，请大家先使用框架内自带的**网站目录**。
 
-!!! info To English readers
+!!! info "To English readers"
     This site features mainly *Simplified Chinese* articles.
 
 ## 关于我 {#about}

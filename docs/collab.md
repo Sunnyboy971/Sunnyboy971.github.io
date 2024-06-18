@@ -16,7 +16,7 @@ Currently receiving/looking for cooperation on several projects. The detail as f
 
 目前我在多个项目上接受合作/希望他人的合作。具体如下：
 
-!!! warning 注意
+!!! warning "注意"
     Due to academic reasons, I would not have enough time for collaboration. Despite this, I will still read your request *at least every weekend*. So **be patient** and, I am always happy to receive your request!
 
     出于学业原因，没有充足时间用于合作项目。即便如此，我也会在*至少每周末*阅读您的需求。请**耐心等待**。

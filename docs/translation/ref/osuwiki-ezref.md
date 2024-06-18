@@ -6,6 +6,7 @@ tags:
   - osu!wiki
   - contribution
   - self
+  - outdated
 comments: true
 ---
 # osu!wiki 中英翻译对照表
@@ -25,6 +26,10 @@ comments: true
 4. 个人补充的
 
 等等。这个对照表暂时限于自用，因此有些内容可能缺失或者不太正确。如果对表中内容有什么想法，可在评论区交流，私信我也行。
+
+!!! info "新地址"
+    应大家的需求，我在腾讯文档上创建了这篇文章的副本，
+    以表格的形式展现中英翻译，请参照[此链接](https://docs.qq.com/sheet/DSE5wWVZRVmVMcUlx?tab=000001)。
 
 ## 目录 {#index}
 
