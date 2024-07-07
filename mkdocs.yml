@@ -2,6 +2,7 @@ site_name: CloneWith's Page
 
 theme:
   name: material
+  language: zh
   custom_dir: overrides
   icon:
     logo: material/book-cog
