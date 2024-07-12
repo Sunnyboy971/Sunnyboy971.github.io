@@ -65,6 +65,8 @@ git clone --recurse-submodules <repo-URL>
 
     在这里看看案例仓库：[osu-atri](https://github.com/osu-atri/osu-dictionary)，目前位于 `dev` 分支。
 
+    这里也参照了 StackOverflow 上的问题：[Update Git submodule to latest commit on origin](https://stackoverflow.com/questions/5828324/update-git-submodule-to-latest-commit-on-origin) 与 [Pull latest changes for all git submodules](https://stackoverflow.com/questions/1030169/pull-latest-changes-for-all-git-submodules)
+
 在克隆仓库时，我们很少会一下子关注到仓库引用的子模块版本。容易理解，出于稳定性的考虑，除非用户明确指示，Git 默认会按照主仓库存放的子模块信息，拉取对应的子模块提交。（因此如果子仓库的对应提交受到重写/改动，则 Git 无法定位并失败）
 
 同样地，所有对子模块引用的更改必须在主仓库进行（也就是必须在主仓库中，将它作为子模块操作）。这里我可能讲得不太清楚，贴一张 GitHub 子模块显示的图，其中显示了引用的提交，或许更好理解：
