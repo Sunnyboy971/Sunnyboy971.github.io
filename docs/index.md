@@ -13,26 +13,16 @@ comments: true
 - 翻译表、本地化相关请点 `Translation`
 - 开发日志请点 `Code`
 
-!!! info "About Links"
-    出于部署问题，暂时从各个页面与目录删除了本站内的交互链接，请大家先使用框架内自带的**网站目录**。
-
 !!! info "To English readers"
     This site features mainly *Simplified Chinese* articles.
 
 ## 关于我 {#about}
 
-有一种很奇怪的感觉，每天总是有很多事情要做...明明毕业了还是好累啊😅
+你所热爱的，就是你的生活。
 
-- 学生党（高三毕业生）
-- 编程爱好者（下列语言均在学习中）
-  - Java / Kotlin
-  - Python
-  - C++
-  - C#
-- 翻译爱好者
-  - osu!wiki
-  - osu!lazer Crowdin Translation
-  - 其他各种在 Crowdin, Transifex 与 Weblate 上的项目
+- 学生党
+- 编程 : 开源项目
+- 本地化与国际化
 - osu! 萌新（字面含义，**< 3星图水准业余玩家**）
 - 菜鸟 Mapper
 
@@ -40,6 +30,6 @@ comments: true
 
 如果你有什么想问问我的问题，可以私信我。我会很乐意帮你解答！
 
-要找到联系方式，滚动到页面底部，右下角的图标悬停即可。建议你使用 **哔哩哔哩私信**。
+要找到联系方式，滚动到页面底部，右下角的图标悬停即可。建议你使用**哔哩哔哩私信**或者 **Discord**。
 
 不保证能够及时回复 xD
