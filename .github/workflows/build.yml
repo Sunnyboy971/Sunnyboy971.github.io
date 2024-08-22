@@ -22,9 +22,9 @@ jobs:
       - uses: actions/cache@v4
         with:
           key: mkdocs-material-${{ env.cache_id }}
-          path:
-            - .cache
-            - ~/.cache
+          path: |
+            .cache
+            ~/.cache
           restore-keys: |
             mkdocs-material-
       - run: pip install mkdocs-material pillow cairosvg Pygments
