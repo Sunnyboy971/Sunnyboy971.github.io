@@ -35,63 +35,64 @@
 }
 
 @keyframes fadeout {
-    from {
-        opacity: 1;
-    }
-    to {
-        opacity: 0;
-    }
+  from {
+    opacity: 1;
+  }
+  to {
+    opacity: 0;
+  }
 }
 
 @font-face {
-    font-family: "Cascadia Code PL";
-    src: url('fonts/CCPL/CascadiaCodePL.woff2');
-    font-weight: 400;
-    font-display: swap;
+  font-family: "Cascadia Code PL";
+  src: url("fonts/CCPL/CascadiaCodePL.woff2");
+  font-weight: 400;
+  font-display: swap;
 }
 
 @font-face {
-    font-family: "Cascadia Code PL";
-    src: url('fonts/CCPL/CascadiaCodePLItalic.woff2');
-    font-weight: 400;
-    font-style: italic;
-    font-display: swap;
+  font-family: "Cascadia Code PL";
+  src: url("fonts/CCPL/CascadiaCodePLItalic.woff2");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
 }
 
 @font-face {
-    font-family: "HarmonyOS Sans SC";
-    src: url('fonts/Harmony/HarmonyOS_Sans_SC_Bold.ttf');
-    font-weight: 700;
-    font-display: swap;
+  font-family: "HarmonyOS Sans SC";
+  src: url("fonts/Harmony/HarmonyOS_Sans_SC_Bold.ttf");
+  font-weight: 700;
+  font-display: swap;
 }
 
 @font-face {
-    font-family: "HarmonyOS Sans SC";
-    src: url('fonts/Harmony/HarmonyOS_Sans_SC_Regular.ttf');
-    font-weight: 400;
-    font-display: swap;
+  font-family: "HarmonyOS Sans SC";
+  src: url("fonts/Harmony/HarmonyOS_Sans_SC_Regular.ttf");
+  font-weight: 400;
+  font-display: swap;
 }
 
 :root {
-    --md-code-font: "Cascadia Code PL";
-    --md-text-font: "HarmonyOS Sans SC";
-    scroll-behavior: smooth;
+  --md-code-font: "Cascadia Code PL";
+  --md-text-font: "HarmonyOS Sans SC";
+  scroll-behavior: smooth;
 }
 
 body {
-    font-family: 'HarmonyOS Sans SC', 'Cascadia Code PL', system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+  font-family: "HarmonyOS Sans SC", "Cascadia Code PL", system-ui, -apple-system,
+    BlinkMacSystemFont, sans-serif;
 }
 
 svg {
-    animation: shrink 0.2s ease forwards;
+  animation: shrink 0.2s ease forwards;
 }
 
 svg:hover {
-    animation: enlarge 0.2s ease forwards;
+  animation: enlarge 0.2s ease forwards;
 }
 
 svg:active {
-    animation: shrink 0.2s ease forwards;
+  animation: shrink 0.2s ease forwards;
 }
 
 .md-footer__link,
@@ -100,24 +101,24 @@ svg:active {
 .md-footer__link:active,
 .md-tabs__item:active,
 .md-ellipsis:active {
-    animation: shrink 0.2s ease forwards;
+  animation: shrink 0.2s ease forwards;
 }
 
 .md-footer__link:hover,
 .md-tabs__item:hover,
 .md-ellipsis:hover {
-    animation: enlarge 0.2s ease forwards;
+  animation: enlarge 0.2s ease forwards;
 }
 
 .md-tag {
-    animation: hueblueback 0.1s ease forwards;
+  animation: hueblueback 0.1s ease forwards;
 }
 
 .md-tag:hover {
-    animation: hueblue 0.2s ease forwards;
+  animation: hueblue 0.2s ease forwards;
 }
 
 .md-top[hidden] {
-    animation: fadeout 0.2s ease forwards;
-    transition-duration: 0.2s;
+  animation: fadeout 0.2s ease forwards;
+  transition-duration: 0.2s;
 }

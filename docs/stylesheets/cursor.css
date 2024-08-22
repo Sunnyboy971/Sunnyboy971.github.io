@@ -1,0 +1,7 @@
+.cursor-overlay {
+  pointer-events: none;
+  background: url("img/cursor.png");
+  width: 30px;
+  height: 30px;
+  background-size: contain;
+}
