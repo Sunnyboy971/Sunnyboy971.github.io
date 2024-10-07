@@ -9,6 +9,7 @@ tags:
   - outdated
 comments: true
 ---
+
 # osu!wiki 中英翻译对照表
 
 ## 简介 {#intro}
