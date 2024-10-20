@@ -12,6 +12,11 @@ comments: true
 
 # osu!wiki 中英翻译对照表
 
+!!! info "新地址"
+    为了提高术语翻译的准确度与灵活性，本术语表更新、更详细的版本已经迁移至 [osu!ATRI](https://osu-atri.github.io/osu-dictionary/docs)，且今后将会在那里继续维护，若有不便敬请谅解。
+
+    目前这里是过去版本的存档。
+
 ## 简介 {#intro}
 
 做了几个月的 osu!wiki 翻译，打算自己制作一张中英翻译对照表，原因有很多：
