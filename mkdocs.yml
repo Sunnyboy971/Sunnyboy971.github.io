@@ -39,13 +39,13 @@ theme:
     - search.share
     - content.code.copy
     - content.code.annotate
-  palette: 
+  palette:
     # Palette toggle for light mode
     - scheme: default
       primary: blue
       accent: blue
       toggle:
-        icon: material/brightness-7 
+        icon: material/brightness-7
         name: Switch to dark mode
     # Palette toggle for dark mode
     - scheme: slate
@@ -60,11 +60,10 @@ plugins:
       blog_dir: blog
       post_readtime_words_per_minute: 150
       post_excerpt_separator: <!-- more -->
-      post_excerpt: required
       post_url_date_format: yyyy
       post_excerpt_max_categories: 2
       archive_date_format: MMMM yyyy
-  
+
 markdown_extensions:
   - footnotes
   - tables
@@ -127,8 +126,8 @@ extra_javascript:
   - javascripts/mathjax.js
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
-  - javascripts/katex.js 
-  - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/katex.min.js  
+  - javascripts/katex.js
+  - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/katex.min.js
   - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/contrib/auto-render.min.js
 
 extra_css:
